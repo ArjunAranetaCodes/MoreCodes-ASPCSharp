@@ -12,7 +12,7 @@ namespace Problem18{
 
    for (int x = 0; x <= 11; x++){
     Label1.Text = Label1.Text +
-    Fibonacci(x).ToString() + "&lt;br/>";
+    Fibonacci(x).ToString() + "<br/>";
    }
   }
 

@@ -11,13 +11,13 @@ namespace Problem1{
   protected void Page_Load(object sender, EventArgs e){
    for (int x = 1; x <= 50; x++){
     if ((x % 3 == 0) && (x % 5 == 0)){
-     Label1.Text = Label1.Text + "FizzBuzz" + "&lt;br/>";
+     Label1.Text = Label1.Text + "FizzBuzz" + "<br/>";
     }else if (x % 3 == 0){
-     Label1.Text = Label1.Text + "Fizz" + "&lt;br/>";
+     Label1.Text = Label1.Text + "Fizz" + "<br/>";
     }else if (x % 5 == 0){
-     Label1.Text = Label1.Text + "Buzz" + "&lt;br/>";
+     Label1.Text = Label1.Text + "Buzz" + "<br/>";
     }else{
-     Label1.Text = Label1.Text + x.ToString() + "&lt;br/>";
+     Label1.Text = Label1.Text + x.ToString() + "<br/>";
     }
    }
   }

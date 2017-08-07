@@ -11,7 +11,7 @@ namespace Problem6{
   protected void Page_Load(object sender, EventArgs e){
    for (int x = 0; x <= 20; x++){
     if (x % 2 == 1){
-     Label1.Text = Label1.Text + x.ToString() + "&lt;br/>";
+     Label1.Text = Label1.Text + x.ToString() + "<br/>";
     }
    }
   }

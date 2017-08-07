@@ -13,7 +13,7 @@ namespace Problem4{
     for (int x = 0; x <= y; x++){
      Label1.Text = Label1.Text + "*";
     }
-    Label1.Text = Label1.Text + "&lt;br/>";
+    Label1.Text = Label1.Text + "<br/>";
    }
   }
  }
