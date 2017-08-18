@@ -2,7 +2,7 @@
 This repository is for ASP.Net(C#) codes of my blog: http://more-codes.com/
 
 - - - -
-### [ASP.Net(C#) Arrays Programming Problems](Arrays/) <- Click to go to Arrays Problems
+### [ASP.Net(C#) Array Programming Problems](Arrays/) <- Click to go to Array Problems
 1. Write a program that outputs the length of array.
 2. Write a program that gets the index of an element in an array.
 3. Write a program that counts the occurence of an element in an array.
