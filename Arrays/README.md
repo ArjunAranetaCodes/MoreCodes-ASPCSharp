@@ -11,7 +11,7 @@ Join Us on Youtube! <br/>
 #
 
 - - - -
-### [ASP.Net(C#) Programming Array problems](Arrays/) <- Click to go to Array problems
+### [ASP.Net(C#) Programming Array problems](../Arrays/) <- Click to go to Array problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-ASPCSharp/blob/master/Arrays/problem1.cs" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-ASPCSharp/blob/master/Arrays/problem2.cs" target="_blank">Write a program that gets the index of an element in an array.</a>
